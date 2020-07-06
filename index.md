@@ -1,4 +1,4 @@
 # Progress Journal
+## Group 11
+[Here](Project-Report.html) is our project report.
 
-## July 6
-[Project Report] (Project-Report.html)
